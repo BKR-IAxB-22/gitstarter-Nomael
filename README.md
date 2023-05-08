@@ -1,4 +1,4 @@
-# Repo von Noel Malchow
+# Repo von Noel M
 
 # :wave: The Basics of GitHub 
 
